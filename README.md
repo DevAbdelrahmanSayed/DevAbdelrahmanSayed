@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
-
 - 💬 Ask me about **Web Design**
 
 - 📫 How to reach me **devabdelr2hman@gmail.com**
+- 
+- ### 💻 Fav Quotes: 
+- 🚀Passionate about transforming ideas into efficient code. 
+- 🌐Life is about Solving Problems.
+- 📚 Sharing knowledge and contributing to the developer community
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
